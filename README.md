@@ -1,0 +1,55 @@
+# benelli-super-moped-18i
+TYPE
+Single Cylinder, 4-stroke, 4 Valves, SOHC
+BORE X STROKE
+Ø64 x 54.1
+DISPLACEMENT
+174
+MAX POWER
+18Hp at 9,500rpm
+MAX TORQUE
+15.1N.m at 7,000rpm
+COMPRESSION RATIO
+11.3:1
+FUEL SYSTEM
+Electronic Fuel Injection
+TRANSMISSION
+6-speed
+LUBRICATION SYSTEM
+Pressure Splash Lubricant
+CLUTCH TYPE
+Wet Multi-plate
+STARTER
+Electric
+IGNITION
+TLI
+Specifications change without prior notice
+CHASSIS
+FRONT SUSPENSION
+Upside Down Telescopic Fork
+REAR SUSPENSION
+Adjustable Monoshock
+FRONT BRAKE
+Disc, 240mm
+REAR BRAKE
+Disc, 220mm
+FRONT TYRE
+80/80-17
+REAR TYRE
+120/70-17
+DRY WEIGHT (KG)
+126
+SEAT HEIGHT (MM)
+787
+OVERALL LENGTH (MM)
+2,010
+OVERALL WIDTH (MM)
+675
+WHEELBASE (MM)
+1,325
+GROUND CLEARANCE (MM)
+145
+FUEL CAPACITY (LITER)
+4.8
+BATTERY
+12V6Ah (Free Maintenance)
